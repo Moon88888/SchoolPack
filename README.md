@@ -17,7 +17,7 @@ Coming with 4 small modules, promoting a fun and intractive way of learning, Sch
 **To Run the Project**
 ------------------------------------------------------------------------------------------
 Download the zip file
-install cvzone, mediapipe, pygame
+install cvzone, mediapipe, pygame and then
 Run main.py
 
 **To Use the Project**
